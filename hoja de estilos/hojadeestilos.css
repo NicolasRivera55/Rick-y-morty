@@ -1,0 +1,176 @@
+@import url("../webfonts/get_schwifty/stylesheet.css");
+* {
+    padding: 0 px;
+    margin: 0 px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#Contenedor {
+    width: 1200px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+#Contenedor header {
+    background-color: #b2daed;
+    width: 1200px;
+    height: 100px;
+    float: left;
+}
+
+#Contenedor nav {
+    width: 1200px;
+    height: 40px;
+    background-color: #97ce4c;
+    float: left;
+}
+#Contenedor nav ul {
+    list-style-type: none;
+
+}
+nav ul li {
+    float: left;
+    height: 30px;
+    width: 200px;
+    line-height: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+ul li a {
+    font-family: "get schwifty";
+    text-decoration: none;
+    text-align: center;
+}
+
+#Contenedor main {
+    width: 1200px;
+    height: 720px;
+    float: left;
+}
+
+#Contenedor main section {
+    width: 600px;
+    height: 720px;
+    float: left;
+}
+#artfoto1 {
+    float: left;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+}
+#iniciotexto1 {
+    text-align: justify;
+    float: left;
+    text-decoration: none;
+    padding-top: 120px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#artconceptofoto1 {
+    float: left;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+#iniciotexto2 {
+    padding-right: 20px;
+    float: left;
+    text-decoration: none;
+    text-align: justify;
+    padding-top: 120px;
+    padding-left: 20px;
+}
+#artfoto2 {
+    float: left;
+    padding-left: 0px;
+    padding-top: 10px;
+}
+
+
+
+#iniciotexto2 {
+    padding-top: 120px;
+    float: left;
+    text-align: justify;
+    text-decoration: none;
+    background-position: center bottom;
+}
+#artconceptofoto1 {
+    float: left;
+    padding-top: 10px;
+}
+#conceptotexto1 {
+    padding-top: 140px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: justify;
+    float: left;
+    text-decoration: none;
+}
+#conceptotexto2 {
+    padding-top: 100px;
+    padding-right: 20px;
+    padding-left: 20px;
+    float: left;
+    text-align: justify;
+    text-decoration: none;
+}
+#artreflexionfoto1 {
+    padding-top: 10px;
+    float: left;
+    text-align: justify;
+    text-decoration: none;
+}
+#reflexiontexto1 {
+    padding-top: 120px;
+    padding-left: 20px;
+    padding-right: 20px;
+    float: left;
+    text-align: justify;
+    text-decoration: none;
+}
+
+#reflexiontexto2 {
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    text-decoration: none;
+    float: left;
+}
+#artreflexionfoto2 {
+    float: left;
+    text-decoration: none;
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+main section article {
+	width: 600px;
+    height: 360px;
+    float: left;
+}
+
+#Contenedor footer {
+    width: 1200px;
+    height: 40px;
+    background-color: #9fded5;
+    float: left;
+    text-decoration: none;
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 10px;
+}
